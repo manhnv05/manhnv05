@@ -21,11 +21,11 @@
     <td align="center">
       <b>🌱 Học vấn</b><br>
       FPT University<br>
-      2022 - 2026
+      2023 - 2027
     </td>
     <td align="center">
       <b>💡 Sở thích</b><br>
-      Backend, Cloud, DevOps, Coding
+      Chơi game, đọc sách, đá bóng
     </td>
     <td align="center">
       <b>🤝 Hợp tác</b><br>
@@ -42,27 +42,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,docker,git,linux&perline=8" />
 </p>
 
----
 
-<!-- Project nổi bật dạng card, có thể thêm link, ảnh thumbnail -->
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/manhnv05/awesome-java-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhnv05&repo=awesome-java-project&theme=react" width="320"/>
-  </a>
-  <a href="https://github.com/manhnv05/spring-boot-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhnv05&repo=spring-boot-starter&theme=react" width="320"/>
-  </a>
-</p>
-
----
-
-<!-- Stats section gọn, bo góc, không rối -->
-<h3 align="center">📈 GitHub Stats & Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manhnv05&show_icons=true&theme=react&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhnv05&theme=react&hide_border=true" width="400"/>
-</p>
 
 ---
 
