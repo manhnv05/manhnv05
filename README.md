@@ -1,54 +1,92 @@
-<!-- Banner cá nhân (hoặc thay bằng ảnh khác nếu bạn thích) -->
+<!-- Banner gradient cực chất -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Manh!%20🧑‍💻&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descSize=18&descAlignY=60" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e2439,43cea2,185a9d&height=160&section=header&text=Hi%20I'm%20Manh%20Nguyen&fontSize=42&fontColor=fff&fontAlignY=50" />
 </p>
 
-<!-- Tên & mô tả ngắn -->
-<h2 align="center">💡 Mạnh Nguyễn | @manhnv05</h2>
+<!-- Avatar hoặc GIF cá nhân (có thể thay bằng avatar của bạn) -->
 <p align="center">
-  <i>FPTU Student • Software Dev Enthusiast • Dreamer</i>
+  <img src="https://avatars.githubusercontent.com/u/10594722?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
 </p>
 
-<!-- Social links đẹp, badge tròn -->
+<!-- Typing effect & quote chất -->
 <p align="center">
-  <a href="mailto:manh.nguyenvan.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&borderRadius=50" alt="gmail"/></a>
-  <a href="https://linkedin.com/in/manhnv05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&borderRadius=50" alt="linkedin"/></a>
-  <a href="https://fb.com/manhnv05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&borderRadius=50" alt="facebook"/></a>
-  <a href="https://leetcode.com/manhnv05"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B&borderRadius=50" alt="leetcode"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=43cea2&center=true&vCenter=true&width=380&lines=Software+Developer;FPTU+Student;Always+Learning+New+Things;Let%E2%80%99s+Build+Something+Awesome!" />
 </p>
 
-<!-- About me section với emoji -->
-<h3 align="center">✨ About Me</h3>
-<ul>
-  <li>👨‍🎓 <b>Sinh viên tại FPTU</b></li>
-  <li>💻 <b>Đam mê phát triển phần mềm</b></li>
-  <li>🌱 <b>Đang học: Java, Spring Boot, Cloud, DevOps</b></li>
-  <li>🤝 <b>Mong muốn hợp tác công nghệ phần mềm</b></li>
-</ul>
+---
 
-<!-- Tech stack badge tròn trẻ trung -->
+<!-- Card layout 3 cột thông tin quan trọng -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🌱 Học vấn</b><br>
+      FPT University<br>
+      2022 - 2026
+    </td>
+    <td align="center">
+      <b>💡 Sở thích</b><br>
+      Backend, Cloud, DevOps, Coding
+    </td>
+    <td align="center">
+      <b>🤝 Hợp tác</b><br>
+      Software Tech, Open Source, Dự án sinh viên
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Tech stack với badge bo tròn, màu gradient nhẹ -->
 <h3 align="center">⚡ Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&borderRadius=50"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&borderRadius=50"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&borderRadius=50"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&borderRadius=50"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=50"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&borderRadius=50"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,docker,git,linux&perline=8" />
 </p>
 
-<!-- Slogan cá nhân -->
+---
+
+<!-- Project nổi bật dạng card, có thể thêm link, ảnh thumbnail -->
+<h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Keep+Learning.;Keep+Coding.;Keep+Growing."/>
+  <a href="https://github.com/manhnv05/awesome-java-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhnv05&repo=awesome-java-project&theme=react" width="320"/>
+  </a>
+  <a href="https://github.com/manhnv05/spring-boot-starter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhnv05&repo=spring-boot-starter&theme=react" width="320"/>
+  </a>
 </p>
 
-<!-- Github stats gọn gàng, không rối -->
+---
+
+<!-- Stats section gọn, bo góc, không rối -->
+<h3 align="center">📈 GitHub Stats & Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manhnv05&show_icons=true&theme=tokyonight&hide=prs&hide_title=true&hide_rank=true&hide_border=true&custom_title=My%20GitHub%20Stats" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhnv05&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manhnv05&show_icons=true&theme=react&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhnv05&theme=react&hide_border=true" width="400"/>
 </p>
 
-<!-- View count nhỏ xinh -->
+---
+
+<!-- Social badge bo tròn, icon bắt mắt -->
+<h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manhnv05&style=flat-round&color=orange" alt="profile views"/>
+  <a href="mailto:manh.nguyenvan.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&borderRadius=50" />
+  </a>
+  <a href="https://linkedin.com/in/manhnv05">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&borderRadius=50" />
+  </a>
+  <a href="https://fb.com/manhnv05">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&borderRadius=50" />
+  </a>
+  <a href="https://leetcode.com/manhnv05">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B&borderRadius=50" />
+  </a>
+</p>
+
+---
+
+<!-- Footer quote, view counter nhỏ gọn -->
+<p align="center"><i>“Keep learning, keep growing, keep coding.”</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manhnv05&style=flat-round&color=43cea2" alt="profile views"/>
 </p>
