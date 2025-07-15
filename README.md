@@ -5,7 +5,7 @@
 
 <!-- Avatar hoặc GIF cá nhân (có thể thay bằng avatar của bạn) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/10594722?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
+  <img src="./logo1.jpg" width="120" style="border-radius:50%;" alt="avatar"/>
 </p>
 
 <!-- Typing effect & quote chất -->
