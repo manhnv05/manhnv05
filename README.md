@@ -1,55 +1,72 @@
+<!-- Banner gradient cực chất -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e2439,43cea2,185a9d&height=160&section=header&text=Hi%20I'm%20Manh%20Nguyen&fontSize=42&fontColor=fff&fontAlignY=50" />
+</p>
+
+<!-- Avatar hoặc GIF cá nhân (có thể thay bằng avatar của bạn) -->
+<p align="center">
+  <img src="./logo1.jpg" width="120" style="border-radius:50%;" alt="avatar"/>
+</p>
+
+<!-- Typing effect & quote chất -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=43cea2&center=true&vCenter=true&width=380&lines=Software+Developer;FPTU+Student;Always+Learning+New+Things;Let%E2%80%99s+Build+Something+Awesome!" />
+</p>
+
+---
+
+<!-- Card layout 3 cột thông tin quan trọng -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🌱 Học vấn</b><br>
+      FPT University<br>
+      2023 - 2027
+    </td>
+    <td align="center">
+      <b>💡 Sở thích</b><br>
+      Chơi game, đọc sách, đá bóng
+    </td>
+    <td align="center">
+      <b>🤝 Hợp tác</b><br>
+      Software Tech, Open Source, Dự án sinh viên
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Tech stack với badge bo tròn, màu gradient nhẹ -->
+<h3 align="center">⚡ Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,docker,git,linux&perline=8" />
+</p>
 
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-&nbsp;
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Yennobita">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yennobita&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+---
+
+<!-- Social badge bo tròn, icon bắt mắt -->
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+  <a href="mailto:manh.nguyenvan.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&borderRadius=50" />
   </a>
-  <a href="#" title="Yennobita">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Yennobita&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://linkedin.com/in/manhnv05">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&borderRadius=50" />
   </a>
-</div>
+  <a href="https://fb.com/manhnv05">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&borderRadius=50" />
+  </a>
+  <a href="https://leetcode.com/manhnv05">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B&borderRadius=50" />
+  </a>
+</p>
+
+---
+
+<!-- Footer quote, view counter nhỏ gọn -->
+<p align="center"><i>“Keep learning, keep growing, keep coding.”</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manhnv05&style=flat-round&color=43cea2" alt="profile views"/>
+</p>
